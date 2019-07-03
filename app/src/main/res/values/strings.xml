@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="title_activity_tela2">tela2</string>
+    <string name="vol">vol.</string>
+    <string name="cont">cont</string>
+    <string name="sair">SAir</string>
+    <string name="jogar">Jogar</string>
+    <string name="volt">volt</string>
+    <string name="olá_eu_sou_a_clave_de_sol_e_estarei_acompanhando_voce_nessa_jornada_de_aprendizado">texto</string>
+    <string name="d">D</string>
+    <string name="c">C</string>
+    <string name="b">B</string>
+    <string name="a">A</string>
+
+
 </resources>
